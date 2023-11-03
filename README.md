@@ -42,7 +42,7 @@ class Football_PlayerAdmin(admin.ModelAdmin):
 ```
 
 ## OUTPUT
-![Alt text](<2023-10-18 (4).png>)
+![g](<2023-10-18 (4).png>)
 
 
 ## RESULT
