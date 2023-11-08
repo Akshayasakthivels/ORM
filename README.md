@@ -42,8 +42,9 @@ class Football_PlayerAdmin(admin.ModelAdmin):
 ```
 
 ##OUTPUT
-## ![Alt text](<2023-10-18 (4).png>)
 
+
+![2023-10-18](https://github.com/Akshayasakthivels/ORM/assets/144870561/68a8d137-e1a3-44de-8d67-d78f12940cb2)
 
 
 
